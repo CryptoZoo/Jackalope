@@ -5,8 +5,8 @@ const bittrex = require('node-bittrex-api');
 const app = express();
 
 bittrex.options({
-  'apikey' : 'b68e057c83424cf0a85b7e5cb97994c2',
-  'apisecret' : 'de7eecb492d84bcbbb454d6b032553f4'
+  'apikey' : '',
+  'apisecret' : ''
 });
 
 // Load View Engine
