@@ -1,0 +1,2 @@
+# Jackalope
+Cryptocurrency Portfolio Manager
