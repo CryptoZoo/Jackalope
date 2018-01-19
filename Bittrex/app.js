@@ -1,4 +1,6 @@
 const express = require('express');
+const bittrex = require('node-bittrex-api');
+
 const app = express();
 
 
