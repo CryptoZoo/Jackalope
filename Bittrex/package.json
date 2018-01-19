@@ -1,0 +1,23 @@
+{
+  "name": "bittrex",
+  "version": "1.0.0",
+  "description": "Working with bittrex nodejs API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CryptoZoo/Jackalope/tree/master/Bittrex"
+  },
+  "keywords": [
+    "Bittrex",
+    "Blockchain",
+    "Cryptocurrency"
+  ],
+  "author": "Mandil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
