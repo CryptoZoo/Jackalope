@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 Tickers
+  p #{JSON.stringify(trigger)}
+  h3 by Mandil
+  h4 trigger
+  ul
+    each ticker, i in tickers
+      li #{ticker.Currency} - #{JSON.stringify(ticker.BTCrate)}
